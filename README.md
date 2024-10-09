@@ -1,2 +1,2 @@
 # Encuesta
-Un ejercicio que permite hacer encuestasy que los datos se guardan en la aplicación.
+Un ejercicio que permite hacer encuestas y que los datos se guardan en la aplicación.
